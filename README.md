@@ -58,7 +58,7 @@ Follow these steps to set up and run the ToDo application on your local machine:
 
 1. *Clone the Repository:*
    bash
-   git clone https://github.com/Karthikdussa/To_do_Application.git
+   git clone https://github.com/Karthikdussa/To_do_App.git
    
 
 2. *Open Project in Android Studio:*
